@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjana Rajapaksha</h1>
+<h1 align="center">Hi 👋, I'm Nilupuli Thashmi Sanjana</h1>
 <h3 align="center">Third year undergraduate student at University of Colombo School of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thashmi-nil&label=Profile%20views&color=0e75b6&style=flat" alt="thashmi-nil" /> </p>
