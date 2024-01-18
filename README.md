@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilupuli Sanjana</h1>
-<h3 align="center">Third year undergraduate student at University of Colombo School of Computing</h3>
+<h3 align="center">Graduated from University of Colombo School of Computing with a BSc in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thashmi-nil&label=Profile%20views&color=0e75b6&style=flat" alt="thashmi-nil" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **at University of Colombo School of Computing**
+- 🌱 Graduated **from the University of Colombo School of Computing with a BSc in Computer Science**
 
 - 📫 How to reach me **nilupuleethash765@gmail.com**
 
