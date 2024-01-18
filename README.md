@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nilupuli Sanjana</h1>
-<h3 align="center">Graduated from University of Colombo School of Computing with a BSc in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thashmi-nil&label=Profile%20views&color=0e75b6&style=flat" alt="thashmi-nil" /> </p>
 
